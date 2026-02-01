@@ -1,13 +1,13 @@
-group = "app.revanced"
+group = "io.github.revenge.plugin"
 
 patches {
     about {
-        name = "ReVanced Patches template"
-        description = "Patches template for ReVanced"
-        source = "git@github.com:revanced/revanced-patches-template.git"
-        author = "ReVanced"
-        contact = "contact@revanced.app"
-        website = "https://revanced.app"
+        name = "RevengeTones"
+        description = "Custom user- and server-specific notification sounds"
+        source = "git@github.com:wishgender/RevengeTones.git"
+        author = "wishgender"
+        contact = "laz@wishgender.dev"
+        website = "https://wishgender.dev"
         license = "GNU General Public License v3.0"
     }
 }
